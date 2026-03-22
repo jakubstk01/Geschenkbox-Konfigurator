@@ -1,0 +1,24 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Box -->
+  <rect id="box" x="30" y="70" width="140" height="100" rx="8" fill="#e0e0e0"></rect>
+
+  <!-- Lid -->
+  <rect id="lid" x="20" y="50" width="160" height="30" rx="6" fill="#d6d6d6"></rect>
+
+  <!-- Vertical ribbon -->
+  <rect id="ribbon-vertical" x="95" y="50" width="10" height="120" fill="#ff4d6d"></rect>
+
+  <!-- Horizontal ribbon (angepasst: bündig mit Box) -->
+  <rect id="ribbon-horizontal" x="30" y="80" width="140" height="10" fill="#ff4d6d"></rect>
+
+  <!-- Bow left -->
+  <path id="bow-left" d="M100 50 C70 20, 40 60, 90 65 Z" fill="#ff4d6d"></path>
+
+  <!-- Bow right -->
+  <path id="bow-right" d="M100 50 C130 20, 160 60, 110 65 Z" fill="#ff4d6d"></path>
+
+  <!-- Knot -->
+  <circle id="knot" cx="100" cy="55" r="6" fill="#ff4d6d"></circle>
+
+</svg>
